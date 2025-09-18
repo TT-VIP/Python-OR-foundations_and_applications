@@ -1,5 +1,73 @@
 Dresdner Straßenbahnlinien
-	Anzahl Linien: 13
-	Linie mit längster Dauer: 4 (81 min)
-	Linie mit längster Strecke: 4 (28.6 km)
-	Schnellste Linie: 7 (21.4 km/h)
+===========================
+   Anzahl Linien: 13
+   Linie mit längster Fahrtzeit: 4 (81 Min)
+   Linie mit längster Strecke: 4 (28.6 km)
+   Schnellste Linie: 7 (21.4 km/h)
+===========================
+
+Linie 1:
+  - Länge: 15.2 km
+  - Fahrzeit: 47 Minuten
+  - Durchschnittsgeschwindigkeit: 19.4 km/h
+
+Linie 2:
+  - Länge: 18.1 km
+  - Fahrzeit: 54 Minuten
+  - Durchschnittsgeschwindigkeit: 20.1 km/h
+
+Linie 3:
+  - Länge: 12.8 km
+  - Fahrzeit: 42 Minuten
+  - Durchschnittsgeschwindigkeit: 18.3 km/h
+
+Linie 4:
+  - Länge: 28.6 km
+  - Fahrzeit: 81 Minuten
+  - Durchschnittsgeschwindigkeit: 21.2 km/h
+
+Linie 6:
+  - Länge: 19.1 km
+  - Fahrzeit: 62 Minuten
+  - Durchschnittsgeschwindigkeit: 18.5 km/h
+
+Linie 7:
+  - Länge: 23.9 km
+  - Fahrzeit: 67 Minuten
+  - Durchschnittsgeschwindigkeit: 21.4 km/h
+
+Linie 8:
+  - Länge: 14.0 km
+  - Fahrzeit: 41 Minuten
+  - Durchschnittsgeschwindigkeit: 20.5 km/h
+
+Linie 9:
+  - Länge: 17.0 km
+  - Fahrzeit: 51 Minuten
+  - Durchschnittsgeschwindigkeit: 20.0 km/h
+
+Linie 10:
+  - Länge: 11.2 km
+  - Fahrzeit: 35 Minuten
+  - Durchschnittsgeschwindigkeit: 19.2 km/h
+
+Linie 11:
+  - Länge: 15.8 km
+  - Fahrzeit: 46 Minuten
+  - Durchschnittsgeschwindigkeit: 20.6 km/h
+
+Linie 12:
+  - Länge: 14.5 km
+  - Fahrzeit: 50 Minuten
+  - Durchschnittsgeschwindigkeit: 17.4 km/h
+
+Linie 13:
+  - Länge: 17.3 km
+  - Fahrzeit: 57 Minuten
+  - Durchschnittsgeschwindigkeit: 18.2 km/h
+
+Linie 20:
+  - Länge: 3.7 km
+  - Fahrzeit: 13 Minuten
+  - Durchschnittsgeschwindigkeit: 17.1 km/h
+
