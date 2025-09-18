@@ -1,0 +1,46 @@
+{
+    "Name": "JSP",
+    "nMachines": 3,
+    "nJobs": 3,
+    "Jobs": [
+        {
+            "Id": 1,
+            "ProcessingTimes": [
+                4, 
+                9, 
+                6
+            ],
+            "MachineSequence": [
+                0,
+                1,
+                2
+            ]
+        },
+        {
+            "Id": 2,
+            "ProcessingTimes": [
+                11,
+                5,
+                1
+            ],
+            "MachineSequence": [
+                1,
+                2,
+                0
+            ]
+        },
+        {
+            "Id": 3,
+            "ProcessingTimes": [
+                14,
+                6,
+                7
+            ],
+            "MachineSequence": [
+                1,
+                0,
+                2
+            ]
+        }
+    ]
+}

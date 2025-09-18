@@ -1,0 +1,32 @@
+[
+  {
+      "id": 1,
+      "brand": "BMW",
+      "model": "M3",
+      "max_speed": 250
+  },
+  {
+      "id": 2,
+      "brand": "Tesla",
+      "model": "Model S",
+      "max_speed": 322
+  },
+  {
+      "id": 3,
+      "brand": "Ford",
+      "model": "Mustang",
+      "max_speed": 240
+  },
+  {
+      "id": 4,
+      "brand": "Volkswagen",
+      "model": "Golf GTI",
+      "max_speed": 230
+  },
+  {
+      "id": 5,
+      "brand": "Porsche",
+      "model": "911 Turbo",
+      "max_speed": 330
+  }
+]

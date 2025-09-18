@@ -1,0 +1,5 @@
+Dresdner Straßenbahnlinien
+	Anzahl Linien: 13
+	Linie mit längster Dauer: 4 (81 min)
+	Linie mit längster Strecke: 4 (28.6 km)
+	Schnellste Linie: 7 (21.4 km/h)

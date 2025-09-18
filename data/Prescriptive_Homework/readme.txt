@@ -1,0 +1,1 @@
+Nutzen Sie die ausgefüllten Unterlagen aus dem 5. Seminar um die Hausaufgabe zu bearbeiten. Die Inputdatei befindet sich in dem Ordner "TestInstancesJson".

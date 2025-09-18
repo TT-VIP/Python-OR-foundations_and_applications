@@ -1,0 +1,18 @@
+{
+    "Name": "VFR10_10_10_SIST",
+    "nMachines": 3,
+    "nJobs": 3,
+    "Jobs": [
+        {
+            Id": 2,
+            "ProcessingTimes": [
+                11, // Prozesszeit von Auftrag 2 auf Maschine 1 (Index 0)
+                5,  // Prozesszeit von Auftrag 2 auf Maschine 2 (Index 1)
+                1  //  Prozesszeit von Auftrag 2 auf Maschine 3 (Index 2)
+            ],
+            "MachineSequence": [ // Maschinensequenz für Auftrag 2
+                1, // 1. Operation wird auf Maschine 2 (Index 1) durchgeführt
+                2, // 2. Operation wird auf Maschine 3 (Index 2) durchgeführt
+                0  // 3, Operation wird auf Maschine 1 (Index 0) durchgeführt
+            ]
+        },
