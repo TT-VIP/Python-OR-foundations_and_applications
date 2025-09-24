@@ -25,6 +25,8 @@ class ImprovementAlgorithm:
     def CreateNeighborhood(self, neighborhoodType, bestCurrentSolution):
         if neighborhoodType == 'Swap':
             return SwapNeighborhood(self.InputData, bestCurrentSolution.Permutation, self.EvaluationLogic, self.SolutionPool)
+        elif neighborhoodType == 'Insertion':
+            return InsertionNeighborhood(self.InputData, bestCurrentSolution.Permutation, self.EvaluationLogic, self.SolutionPool)
         else:
             raise Exception(f"Neighborhood type {neighborhoodType} not defined.")
 

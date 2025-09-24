@@ -128,8 +128,13 @@ class InsertionMove:
 class InsertionNeighborhood(BaseNeighborhood):
     def __init__(self, inputData, initialPermutation, evaluationLogic, solutionPool):
         super().__init__(inputData, initialPermutation, evaluationLogic, solutionPool)
-        pass
+        
+        self.Type = 'Insertion'
 
     def DiscoverMoves(self):
-        pass
+        for i in range(len(self.Permutation)):
+            for j in range(len(self.Permutation)):
+                if i != j or i != j+1:
+                    insertMove = InsertionMove(self.Permutation, i, j)
+                    self.Moves.append(insertMove)
                 

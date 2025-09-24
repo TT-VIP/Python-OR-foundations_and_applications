@@ -45,7 +45,7 @@ if __name__ == '__main__':
 
     data = InputData("InputFlowshopSIST.json")
 
-    localSearch = IterativeImprovement(data, 'BestImprovement', ['Swap'])
+    localSearch = IterativeImprovement(data, 'BestImprovement', ['Insertion'])
     
     solver = Solver(data, 1008)
 
